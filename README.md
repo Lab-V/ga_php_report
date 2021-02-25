@@ -5,4 +5,4 @@
 
 [Demo](http://lab.virtuosity.ru/samples/ga/)
 
-![Preview](http://lab.virtuosity.ru/images/ga_php_report.jpg)
+![Preview image](https://github.com/Lab-V/ga_php_report/blob/master/ga_php_report.jpg)
